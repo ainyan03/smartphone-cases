@@ -17,10 +17,10 @@ The camera guard and the MagSafe holder are separate parts, placed on the same p
 
 | File | Contents |
 |---|---|
-| `3mf/fold7-case-bambu.3mf` | Bambu Studio project: the whole case + camera guard + MagSafe holder (1.0) on one plate |
-| `3mf/fold7-case.3mf` | The same plate as a plain 3MF (for other slicers) |
-| `3mf/magsafe-holder-1.4-1.8-bambu.3mf` / `3mf/magsafe-holder-1.4-1.8.3mf` | Thicker MagSafe holders (1.4 and 1.8) on a separate plate |
-| `stl/` | Each part as STL |
+| `3mf/galaxy-z-fold7-case-bambu.3mf` | Bambu Studio project: the whole case + camera guard + MagSafe holder (1.0) on one plate |
+| `3mf/galaxy-z-fold7-case.3mf` | The same plate as a plain 3MF (for other slicers) |
+| `3mf/galaxy-z-fold7-magsafe-holder-1.4-1.8-bambu.3mf` / `3mf/galaxy-z-fold7-magsafe-holder-1.4-1.8.3mf` | Thicker MagSafe holders (1.4 and 1.8) on a separate plate |
+| `stl/galaxy-z-fold7-<part>.stl` | Each part as STL (the MagSafe holder in 1.0 / 1.4 / 1.8) |
 
 ## Printing
 - Tested on a Bambu Lab P1S with PLA, default slicer settings (0.20 mm Standard).
@@ -59,10 +59,10 @@ Galaxy Z Fold7 用の全面ケースです。左右のケースとヒンジの�
 
 | ファイル | 中身 |
 |---|---|
-| `3mf/fold7-case-bambu.3mf` | Bambu Studio のプロジェクト: ケース一式 + カメラガード + MagSafe ホルダー (1.0) を 1 枚に |
-| `3mf/fold7-case.3mf` | 同じ造形板の汎用の 3MF (他のスライサー向け) |
-| `3mf/magsafe-holder-1.4-1.8-bambu.3mf` / `3mf/magsafe-holder-1.4-1.8.3mf` | 厚み違いの MagSafe ホルダー (1.4・1.8) を別の造形板に |
-| `stl/` | 部品ごとの STL |
+| `3mf/galaxy-z-fold7-case-bambu.3mf` | Bambu Studio のプロジェクト: ケース一式 + カメラガード + MagSafe ホルダー (1.0) を 1 枚に |
+| `3mf/galaxy-z-fold7-case.3mf` | 同じ造形板の汎用の 3MF (他のスライサー向け) |
+| `3mf/galaxy-z-fold7-magsafe-holder-1.4-1.8-bambu.3mf` / `3mf/galaxy-z-fold7-magsafe-holder-1.4-1.8.3mf` | 厚み違いの MagSafe ホルダー (1.4・1.8) を別の造形板に |
+| `stl/galaxy-z-fold7-<部品>.stl` | 部品ごとの STL (MagSafe ホルダーは 1.0・1.4・1.8) |
 
 ### 印刷
 - Bambu Lab P1S・PLA で確認済み。スライサーの設定は既定のまま (0.20 mm Standard)。
