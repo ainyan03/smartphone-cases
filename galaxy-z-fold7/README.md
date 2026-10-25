@@ -24,14 +24,16 @@ The camera guard and the MagSafe holder are separate parts, placed on the same p
 
 ## Printing
 - Tested on a Bambu Lab P1S with PLA, default slicer settings (0.20 mm Standard).
-- About 78 min and 25 g of PLA for the main plate.
-- TPU has not been tested.
+- About 79 min and 26 g of PLA for the main plate.
+- PETG also works.
+- TPU is not recommended: it is too soft, so the case bends and comes off the phone while unfolding.
 - Print without changing the layout or settings. The hinge relies on precise gaps between parts; scaling or changing settings may stop it from moving.
 
 ## Parts
 - `case-left` / `case-right`: the two case halves (the cover-screen side has an open window)
 - `guard` / `link-left` / `link-right`: the hinge cover (prints attached to the case halves)
-- `camera-guard`: a ring around the camera. Insert it from the inside of the case, flange toward the phone.
+- `camera-guard`: a ring around the camera, tapered so it does not catch in a pocket. It prints upside down (the lens-side end on the bed). Insert it from the inside of the case, flange toward the phone.
+  The camera guard and the case changed together in v1.2; do not mix them with v1.1 or older parts.
 - `magsafe-holder`: a thin part that fits the MagSafe opening and holds a magnet ring.
 
 ## Using the MagSafe holder
@@ -66,14 +68,16 @@ Galaxy Z Fold7 用の全面ケースです。左右のケースとヒンジの�
 
 ### 印刷
 - Bambu Lab P1S・PLA で確認済み。スライサーの設定は既定のまま (0.20 mm Standard)。
-- 本体の造形板で 約 78 分・PLA 約 25 g。
-- TPU は未確認です。
+- 本体の造形板で 約 79 分・PLA 約 26 g。
+- PETG でも使えます。
+- TPU はお勧めしません。柔らかすぎて、開くときにケースが撓み、端末から外れます。
 - 配置と設定を変えずに刷ってください。ヒンジは部品どうしの隙間を前提にした形なので、拡大縮小・設定の変更で動かなくなることがあります。
 
 ### 部品
 - `case-left` / `case-right`: 左右のケース (外画面の側は窓が開いています)
 - `guard` / `link-left` / `link-right`: ヒンジの保護部 (ケースとつながったまま刷れます)
-- `camera-guard`: カメラのまわりを囲む筒。つばを端末の側にして、ケースの内側からはめます。
+- `camera-guard`: カメラのまわりを囲む筒。ポケットで引っ掛からないよう、外面を先細りにしてあります。逆さ (レンズの側の端を造形面) に刷ります。つばを端末の側にして、ケースの内側からはめます。
+  v1.2 でカメラガードとケースの受けを一緒に変えたので、v1.1 以前の部品と混ぜないでください。
 - `magsafe-holder`: MagSafe の穴にはめる薄い部品。磁石板を入れて使います。
 
 ### MagSafe ホルダーの使い方
