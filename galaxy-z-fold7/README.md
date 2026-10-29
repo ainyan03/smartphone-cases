@@ -35,6 +35,7 @@ The camera guard and the MagSafe holder are separate parts, placed on the same p
 - `camera-guard`: a ring around the camera, tapered so it does not catch in a pocket. It prints upside down (the lens-side end on the bed). Insert it from the inside of the case, flange toward the phone.
   v1.4 changed the case, the hinge cover, the camera guard and the MagSafe holder together (thinner back plate); do not mix them with v1.3 or older parts.
 - `magsafe-holder`: a thin part that fits the MagSafe opening and holds a magnet ring.
+  v1.5 enlarged the MagSafe opening's ledge and the holder (62 mm) so the keys are easier to see; use the v1.5 holder with a v1.5 case. The camera guard is the same as in v1.4.
 
 ## Using the MagSafe holder
 1. Put a MagSafe magnet ring sticker (about 55 mm OD, 45 mm ID, 0.5 mm thick) into the groove of the holder (the phone side).
@@ -76,6 +77,7 @@ Galaxy Z Fold7 用の全面ケースです。左右のケースとヒンジの�
 - `camera-guard`: カメラのまわりを囲む筒。ポケットで引っ掛からないよう、外面を先細りにしてあります。逆さ (レンズの側の端を造形面) に刷ります。つばを端末の側にして、ケースの内側からはめます。
   v1.4 でケース・ヒンジの保護部・カメラガード・MagSafe ホルダーを一緒に変えた (背板を薄くした) ので、v1.3 以前の部品と混ぜないでください。
 - `magsafe-holder`: MagSafe の穴にはめる薄い部品。磁石板を入れて使います。
+  v1.5 で、キーが見やすいよう MagSafe の穴の棚とホルダーを大きくした (直径 62) ので、v1.5 のケースには v1.5 のホルダーを使ってください。カメラガードは v1.4 と同じです。
 
 ### MagSafe ホルダーの使い方
 1. 市販の MagSafe 用の磁石板 (リング状、外径 55・内径 45・厚み 0.5 程度) を、ホルダーの溝 (端末の側) に入れます。
