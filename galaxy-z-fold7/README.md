@@ -7,9 +7,9 @@ The camera guard and the MagSafe holder are separate parts, placed on the same p
 
 ![Case on the phone](images/case-on-phone.jpg)
 
-| Printed plate | Camera guard | Hinge side, closed |
-|---|---|---|
-| ![Printed plate](images/printed-plate.jpg) | ![Camera guard](images/camera-guard.jpg) | ![Hinge side, closed](images/hinge-closed.jpg) |
+| Printed plate | Camera guard | Hinge side, closed | Hinge side, open |
+|---|---|---|---|
+| ![Printed plate](images/printed-plate.jpg) | ![Camera guard](images/camera-guard.jpg) | ![Hinge side, closed](images/hinge-closed.jpg) | ![Hinge side, open](images/hinge-open.jpg) |
 
 ![Plate layout](images/plate-layout.png)
 
