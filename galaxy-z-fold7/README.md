@@ -35,15 +35,15 @@ The camera guard and the MagSafe holder are separate parts, placed on the same p
 - `camera-guard`: a ring around the camera, tapered so it does not catch in a pocket. It prints upside down (the lens-side end on the bed). Insert it from the inside of the case, flange toward the phone.
   v1.4 changed the case, the hinge cover, the camera guard and the MagSafe holder together (thinner back plate); do not mix them with v1.3 or older parts.
 - `magsafe-holder`: a thin part that fits the MagSafe opening and holds a magnet ring.
-  v1.5 enlarged the MagSafe opening's ledge and the holder (62 mm) so the keys are easier to see; use the v1.5 holder with a v1.5 case. The camera guard is the same as in v1.4.
+  v1.6 moved the MagSafe opening 0.5 mm away from the camera, enlarged the opening (60 mm), the ledge and the holder (63.2 mm), and made the holder flat (1.0 mm). The camera guard is 0.06 mm shorter on the MagSafe side. Use v1.6 parts together; do not mix them with v1.5 or older parts.
 
 ## Using the MagSafe holder
-1. Put a MagSafe magnet ring sticker (about 55 mm OD, 45 mm ID, 0.5 mm thick) into the groove of the holder (the phone side).
-   Rings up to 56.6 mm OD, at least 43.4 mm ID and up to 0.6 mm thick fit.
+1. Put a MagSafe magnet ring sticker (about 55 mm OD, 45 mm ID, 0.5 mm thick) or a metal ring into the groove of the holder (the phone side).
+   Rings up to 57.6 mm OD, at least 42.1 mm ID and up to 0.8 mm thick fit.
 2. With the groove facing the phone, set the holder into the MagSafe opening from the inside of the case, lining up the three notches on its rim with the three keys of the opening. The keys keep it from rotating.
 3. Once the phone is in, the magnet ring is held between the phone and the holder — no glue needed.
 
-The inner wall of the holder stands 0.2 mm above its rim, so the phone presses the center of the holder outward and keeps the magnet ring against the phone when a charger pulls on it. The outer face of the holder sits about 0.4 mm below the case surface at the center, so the charger nests into it.
+The outer face of the holder sits about 0.4 mm below the case surface, so the charger nests into it.
 
 ## License
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
@@ -77,15 +77,15 @@ Galaxy Z Fold7 用の全面ケースです。左右のケースとヒンジの�
 - `camera-guard`: カメラのまわりを囲む筒。ポケットで引っ掛からないよう、外面を先細りにしてあります。逆さ (レンズの側の端を造形面) に刷ります。つばを端末の側にして、ケースの内側からはめます。
   v1.4 でケース・ヒンジの保護部・カメラガード・MagSafe ホルダーを一緒に変えた (背板を薄くした) ので、v1.3 以前の部品と混ぜないでください。
 - `magsafe-holder`: MagSafe の穴にはめる薄い部品。磁石板を入れて使います。
-  v1.5 で、キーが見やすいよう MagSafe の穴の棚とホルダーを大きくした (直径 62) ので、v1.5 のケースには v1.5 のホルダーを使ってください。カメラガードは v1.4 と同じです。
+  v1.6 で、MagSafe の穴をカメラから 0.5 離し、穴 (直径 60)・棚とホルダー (直径 63.2) を大きくし、ホルダーを平らな 1.0 にしました。カメラガードは MagSafe の側の端が 0.06 短くなっています。v1.6 の部品どうしで使い、v1.5 以前の部品と混ぜないでください。
 
 ### MagSafe ホルダーの使い方
-1. 市販の MagSafe 用の磁石板 (リング状、外径 55・内径 45・厚み 0.5 程度) を、ホルダーの溝 (端末の側) に入れます。
-   外径 56.6 以下・内径 43.4 以上・厚み 0.6 以下の板が入ります。
+1. 市販の MagSafe 用の磁石板 (リング状、外径 55・内径 45・厚み 0.5 程度) や金属リングを、ホルダーの溝 (端末の側) に入れます。
+   外径 57.6 以下・内径 42.1 以上・厚み 0.8 以下の板が入ります。
 2. 溝を端末の側に向けて、ホルダーの縁の 3 か所の切り欠きを穴の 3 か所のキーに合わせ、ケースの内側からはめます。キーで回りません。
 3. 端末を入れると、磁石板は端末とホルダーに挟まれて固定されます (接着不要)。
 
-ホルダーの内側の壁は縁より 0.2 高く、端末に押されて中央が外へ撓んだ形で押し付けられます。充電器が磁石板を引いても、磁石板が端末から離れにくくなります。ホルダーの外面は中央でケースの外面から約 0.4 引っ込み、充電器がはまり込みます。
+ホルダーの外面はケースの外面から約 0.4 引っ込み、充電器がはまり込みます。
 
 ### ライセンス
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)
